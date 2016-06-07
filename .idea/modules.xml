@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestVikeAar.iml" filepath="$PROJECT_DIR$/TestVikeAar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vike-release/Vike-release.iml" filepath="$PROJECT_DIR$/Vike-release/Vike-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flurryintegration-debug/flurryintegration-debug.iml" filepath="$PROJECT_DIR$/flurryintegration-debug/flurryintegration-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleanalytics-debug/googleanalytics-debug.iml" filepath="$PROJECT_DIR$/googleanalytics-debug/googleanalytics-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mixpanelintegration-debug/mixpanelintegration-debug.iml" filepath="$PROJECT_DIR$/mixpanelintegration-debug/mixpanelintegration-debug.iml" />
+    </modules>
+  </component>
+</project>

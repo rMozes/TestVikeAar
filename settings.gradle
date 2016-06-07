@@ -1,0 +1,1 @@
+include ':app', ':mixpanelintegration-debug', ':googleanalytics-debug', ':flurryintegration-debug', ':Vike-release'
